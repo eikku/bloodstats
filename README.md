@@ -6,6 +6,8 @@ output: github_document
 
 # bloodstats
 
+[![Build Status](https://travis-ci.org/mariakalimeri/bloodstats.svg?branch=master)](https://travis-ci.org/mariakalimeri/bloodstats)
+
 A dummy package for demo and testing.
 
 ## Installation
